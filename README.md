@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, Figma**
 
-💬 Ask me about **Django, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Django, React, Firebase... or anything [here](https://github.com/adithyan313/adithyan313/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -122,7 +122,8 @@
 
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<p>Made by Adithyan ❤</p>
+	<img height='64' style='border:0px;height:64px;' src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDU5eTk4cG92bjgyazZsamttNnNpdGV4dWR2MXV2bml4MWQ1aGVoNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp' border='0' alt='Buy Me a Coffee a ko-fi.com' />
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
