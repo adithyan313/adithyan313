@@ -75,7 +75,7 @@
 <img src="/assets/images/horizontal-divider-gradient.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">user contributions graph📈</h3>
 
-![snake gif](https://github.com/ajin597/ajin597/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/adithyan313/adithyan313/blob/output/github-contribution-grid-snake.svg)
 
 <br/><br/>
 
@@ -87,7 +87,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/adithyan313/adithyan313/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
