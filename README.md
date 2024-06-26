@@ -75,8 +75,6 @@
 <img src="/assets/images/horizontal-divider-gradient.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">user contributions graph📈</h3>
 
-![snake gif](https://github.com/adithyan313/adithyan313/blob/output/github-contribution-grid-snake.svg)
-
 <br/><br/>
 
 
