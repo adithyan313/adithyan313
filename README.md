@@ -58,7 +58,7 @@
 
 <div align="center">
 	
-[![trophy](https://github-profile-trophy.vercel.app/?username=adithyan313)](https://github.com/adithyan/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=adithyan313)](https://github.com/adithyan313/github-profile-trophy)
 
 </div>
 
