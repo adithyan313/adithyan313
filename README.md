@@ -54,7 +54,7 @@
 <h3 align="center">🔥Streak Stats🔥</h3>
 
 <!-- custom streak stats: https://git.io/streak-stats -->
-<p align="center"><img src="https://streak-stats.demolab.com?user=adithyan313&hide_border=true&type=png" alt="ajin" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=adithyan313&hide_border=true&type=png" alt="Adithyan" /></p>
 
 <div align="center">
 	
