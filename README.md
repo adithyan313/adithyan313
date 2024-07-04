@@ -17,7 +17,7 @@
 
 💬 Ask me about **Django, React, Firebase... or anything [here](https://github.com/adithyan313/adithyan313/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The first programmer was the daughter of a mad poet**
 
  </div>
  
@@ -72,14 +72,15 @@
 
 
 <img src="/assets/images/horizontal-divider-gradient.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3>My Contributions</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3>hello</h3>
 
-<br/><br/>
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=adithyan313&theme=default"/>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">🐍 My Contributions 🐍</h3>
 
-<br/>
 
 <div align="center">
   
